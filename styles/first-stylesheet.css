@@ -1,1 +1,17 @@
-h2 { color: darkblue; }
+
+
+body { font-family:  serif; 
+	    background: #F0F8FF; 
+	    margin: 50px}
+
+header{ font-size:20px;
+        margin: 50px; }
+
+
+/*h2 { color: darkblue; } */
+nav {  font-size: 2rem;
+       padding: 1rem  2rem;
+       border: 0.5rem solid darkblue;
+       margin: 50px;
+       background: lightblue;
+        }
