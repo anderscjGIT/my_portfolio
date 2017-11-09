@@ -1,7 +1,8 @@
 
 
-body { font-family:  serif; 
-	    background: #F0F8FF; 
+body { font-family: 'Cinzel', serif; 
+	    background-image: url("http://static.hdw.eweb4.com/media/wallpapers_1920x1080/nature/1/1/winterscape-nature-hd-wallpaper-1920x1080-5704.jpg"); 
+	    opacity:1;
 	    margin: 50px}
 
 
