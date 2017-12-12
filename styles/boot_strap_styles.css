@@ -1,0 +1,86 @@
+    
+
+  
+
+
+  body { background-image: url("https://static.pexels.com/photos/149387/pexels-photo-149387.jpeg")}
+
+
+
+    * {font-family: 'Orbitron', sans-serif;
+       box-sizing: border-box;}
+
+
+    .boxes-content{
+    	color: white;
+        padding: 15px;
+        font-size: 18px;
+        min-height: 300px; 
+        background: rgba(66,54,63,0.6);
+        margin-bottom: 0;
+        
+                  }
+    
+
+   
+     #row_1_box {
+    	color: white;
+        padding: 15px;
+        font-size: 18px;
+        min-height: 300px;
+        background-color: rgb(66,54,63); 
+        margin-bottom: 0;
+               }
+
+    #row_2_box {
+    	color: white;
+        padding: 0;
+        font-size: 18px;
+        min-height: 50px;
+        background-color: rgba(66,54,63,0.7); 
+        
+               }
+
+      #row_1_box { background-image: url("https://images.pexels.com/photos/92077/pexels-photo-92077.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb");
+                   background-repeat: no-repeat; 
+                   background-position: right; 
+                   background-size: contain; 
+
+                 }
+     .shell{ padding-left:0;
+      padding-right: 0; }
+
+
+       .nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+
+#pottery { width: 350px; 
+	      height: 240px;
+	      border-radius: 5%;
+	       }
+
+
+#art_brushes { height: 265px;
+	           width: 700px; 
+	           border-radius: 5%;
+	       }
+
+
+
+#scenery{ width: 350px; 
+	      height: 240px;
+	      border-radius: 5%;
+
+	       }
+
+
+#web_dev { height: 265px;
+	           width: 700px; 
+	           border-radius: 5%;
+	           position: absolute;
+	           bottom: 0;
+	           right:30px;
+	       }      
